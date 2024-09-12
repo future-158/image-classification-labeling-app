@@ -3,12 +3,9 @@ streamlit에서 간단히 이미지 classification labeling
 
 ## 화면
 
-키보드 누르면 알아서 annotation 만들고 저장함
+키보드 버튼 누르면 알아서 annotation 만들고 저장함
+![A description of the GIF](./assets/demo.gif)
 
-<video width="1024" height="1024" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 ## 장점
