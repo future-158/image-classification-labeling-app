@@ -23,13 +23,14 @@ class  a,b,c,d,e,f,g를 1,2,3,4,5,6,7 숫자로 매핑하여
     label: "e" # 숫자 5에 해당
 }
 ```
-이 artifact/ 폴더에 저장되며, 다음 이미지로 넘어감
+artifact/ 폴더에 저장되며, 다음 이미지로 넘어감
 
 
 2. 코드가 100줄 이내로 간단함
 
 
 # 감사
+
 streamlit-shortcuts 라이브러리 덕분에, 
 
 아래 매핑만 지정해놓으면 
@@ -70,6 +71,10 @@ pip install datasets cffi
 ```
 
 
+# 실행
+```bash
+streamlit run app.py
+```
 
 ## Attribution
 This project uses a subset of the Stanford Cars Dataset with BLIP captions from Hugging Face. The dataset is available at https://huggingface.co/datasets/roskyluo/stanford_cars_blip and is licensed under the Apache 2.0 License.
